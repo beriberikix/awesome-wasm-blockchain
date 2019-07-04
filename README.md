@@ -10,6 +10,7 @@
 * Parity
   * Projects: [parity-ethereum](https://github.com/paritytech/parity-ethereum), [substrate](https://github.com/paritytech/substrate), [wasmi](https://github.com/paritytech/wasmi), [parity-wasm](https://github.com/paritytech/parity-Wasm)
   * Lightbeam
+  * Article: [medium](https://www.parity.io/private-transactions-webassembly-and-permissioning-new-features-energy-web-foundation-blockchain-for-energy/)
 * Near Protocol
   * Project: [nearcore](https://github.com/nearprotocol/nearcore)
 * Dfinity
@@ -20,3 +21,12 @@
 * Oasis Labs
   * Project: [oasis labs](https://github.com/oasislabs)
   * Docs: [WASI proposal](https://medium.com/oasislabs/blockchain-flavored-wasi-50e3612b8eba)
+* Hyperledger
+  * Project: [Sawtooth Sabre](https://github.com/hyperledger/sawtooth-sabre)
+* Holochain
+  * Project: [holochain-rust](https://github.com/holochain/holochain-rust)
+  * Docs: [post](https://medium.com/holochain/why-webassembly-will-turbocharge-p2p-app-development-and-the-holochain-tech-stack-d771125ef4f5)
+* Fluence
+  * Project: [fluence](https://github.com/fluencelabs/fluence)
+  * Article: [redis/wasi](https://medium.com/fluence-network/porting-redis-to-webassembly-with-clang-wasi-af99b264ca8)
+  * Talk: [wasm blockchain event](https://www.youtube.com/watch?v=01Jlr06Zfqw)
